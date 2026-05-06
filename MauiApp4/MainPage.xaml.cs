@@ -16,7 +16,7 @@ namespace MauiApp4
             InitializeComponent();
         }
 
-        private async void OnCounterClicked(object? sender, EventArgs e)
+        public async void OnCounterClicked(object? sender, EventArgs e)
         {
             count++;
 
