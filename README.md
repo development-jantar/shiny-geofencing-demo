@@ -1,0 +1,1 @@
+Please use your own [Bundle Identifier/ApplicationId and proper entitlement/provisioning profile](https://developer.apple.com/help/account/provisioning-profiles/create-a-development-provisioning-profile) in order to get the iOs demo app working.
